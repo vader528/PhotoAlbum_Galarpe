@@ -1,3 +1,41 @@
+# Photo Album Web Application (Laravel)
+
+Program: BSIT 
+Activity Tittle: LAB. Activity  - Photo Album
+Name: Eli Galarpe
+
+
+---
+
+Description
+This Laravel project displays a digital photo album with 100 images divided into 5 categories:
+
+| Page | Category | Images |
+|------|-----------|---------|
+| 1 | Nature Gallery | 20 |
+| 2 | Architecture Gallery | 20 |
+| 3 | Animal Kingdom | 20 |
+| 4 | People & Events Photos | 20 |
+| 5 | Sports & SuperCars | 20 |
+| SP | Sports & SuperCars | 20 |
+
+<img width="1920" height="1080" alt="Screenshot 2025-11-14 085846" src="https://github.com/user-attachments/assets/997aa9d5-035b-4d92-a99b-d5e8a930bbb1" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-14 085901" src="https://github.com/user-attachments/assets/74ea193d-4235-473a-a7af-e75b49a04e62" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-14 085926" src="https://github.com/user-attachments/assets/a3786fb2-1956-4475-ab13-eeeab394c8da" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-14 085941" src="https://github.com/user-attachments/assets/c0f707d7-556e-4c31-b6a2-6f322f49f42b" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-14 085958" src="https://github.com/user-attachments/assets/cac106cc-3f5a-4fbc-bd8c-3965c9bab824" />
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
